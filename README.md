@@ -7,7 +7,6 @@ text-align:left;
 color:white;
 }
 </style>
-</head>
 <body>
 <div class="a">
 <img src="cts.png" style="width:50px;height:60px;float:right;">
