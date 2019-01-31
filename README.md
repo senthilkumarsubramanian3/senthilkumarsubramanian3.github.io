@@ -26,6 +26,7 @@ color:white;
 <p>An advance automation system in the hydroponics plantation for solution maintaining and mixture of the solution ratio control.</p>
 <h3>CONTACT</h3>
 <p>Feel free to reach me at -</p>
+ <a href="https://www.gmail.com"style="color:white;">Mail Id:mme1991@gmail.com</a>
 </div> 
 </body> 
 </html>
