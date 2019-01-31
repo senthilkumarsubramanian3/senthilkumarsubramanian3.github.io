@@ -1,6 +1,4 @@
 # senthilkumarsubramanian3.github.io
-<html>
-<head>
 <title>Senthil Kumar</title>
 <style>
 .a {
@@ -27,6 +25,3 @@ color:white;
 <h3>CONTACT</h3>
 <p>Feel free to reach me at -</p>
  <p>mme1991@gmail.com</p>
-</div> 
-</body> 
-</html>
